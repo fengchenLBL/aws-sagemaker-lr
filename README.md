@@ -6,7 +6,7 @@ Mountain Car is a classic control Reinforcement Learning problem that was first 
 
 ## Contents
 
-* `rl_mountain_car_coach_gym.ipynb`: [notebook used for training Mountain Car policy](rl_mountain_car_coach_gymEnv.ipynb)
+* `rl_mountain_car_coach_gym.ipynb`: [__notebook used for training Mountain Car policy__](rl_mountain_car_coach_gymEnv.ipynb)
 * `src/`
   * `patient_envs.py`: custom environments defined here.
   * `train-coach.py`: launcher for coach training
