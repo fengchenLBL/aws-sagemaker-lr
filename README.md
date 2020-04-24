@@ -12,3 +12,6 @@ Mountain Car is a classic control Reinforcement Learning problem that was first 
   * `train-coach.py`: launcher for coach training
   * `preset-mountain-car-continuous-clipped-ppo.py`: coach preset for Clipped PPO.
   * `preset-mountain-car-dqn.py`: coach preset for DQN.
+  
+## Citations
+https://github.com/awslabs/amazon-sagemaker-examples/tree/master/reinforcement_learning/rl_mountain_car_coach_gymEnv
